@@ -1,0 +1,6 @@
+= This is a game
+:toc:
+:toc-title: Table of Contents
+
+== This could be a section
+TBD
