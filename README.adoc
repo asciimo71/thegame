@@ -1,4 +1,4 @@
-= This is a game
+= This is the official **Her Name is Lotti** repository
 :toc:
 :toc-title: Table of Contents
 
