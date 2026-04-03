@@ -1,6 +1,40 @@
-= This is a game
+= This is the official repository of Her Name is Lotti
 :toc:
 :toc-title: Table of Contents
 
-== This could be a section
+== Description
 TBD
+
+== Game Download
+TBD
+
+== Repository Structure
+
+[source, bash]
+|-- her-name-is-lotti/
+    |-- Godot/
+        |-- assets/
+            |-- fonts
+            |-- music
+            |-- sounds
+            |-- sprites
+        |-- scenes/
+        |-- scripts/
+        |-- project.godot
+    |-- README.adoc <-- Current File
+
+== Tools for development
+
+The game is being developed with the https://godotengine.org/[Godot Game Engine] and 
+https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html[scripting language]
+
+The artwort is made with <insert art tools>...
+
+[cols="1,1"]
+|===
+|Tool|Version
+|Godot|4.6.1
+|===
+
+== Building
+

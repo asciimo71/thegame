@@ -1,0 +1,7 @@
+# IDE specific directories
+./.idea
+
+# godot editor files
+./godot/.godot/
+./godot/addons/
+./godot/.editorconfig
